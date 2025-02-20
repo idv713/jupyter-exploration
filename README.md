@@ -1,1 +1,1 @@
-# jupyter-exploration  My first notebook!
+# jupyter-exploration:  My first notebook!
